@@ -4,11 +4,11 @@ Spring Boot based shopping cart with client-side and server-side
 
 Instructions on running the app
 
-1. server
+1. server commands:
 mvn clean install
 mvn spring-boot:run
 
-2. client
+2. client commands:
 mvn clean install
 mvn spring-boot:run
 
